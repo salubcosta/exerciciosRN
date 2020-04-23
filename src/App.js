@@ -5,6 +5,7 @@ import SimpleText from './components/SimpleText';
 import ParImpar from './components/ParImpar';
 import Contador from './components/Contador';
 import Platform from './components/Platform';
+import ListFlex from './components/ListFlex';
 
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
         <ParImpar numero={22} />
         <Contador />
         <Platform />
+        <ListFlex />
       </View>
     </>
   );
@@ -22,9 +24,9 @@ const App = () => {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
+    // flex: 1,
+    // justifyContent: 'center',
+    // alignItems: 'center',
   },
 });
 
