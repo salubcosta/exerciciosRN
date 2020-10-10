@@ -26,7 +26,8 @@
     debug "^4.1.0"
     gensync "^1.0.0-beta.1"
     json5 "^2.1.2"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
     resolve "^1.3.2"
     semver "^5.4.1"
     source-map "^0.5.0"
@@ -38,7 +39,8 @@
   dependencies:
     "@babel/types" "^7.9.5"
     jsesc "^2.5.1"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
     source-map "^0.5.0"
 
 "@babel/helper-annotate-as-pure@^7.8.3":
@@ -101,7 +103,8 @@
   dependencies:
     "@babel/helper-function-name" "^7.8.3"
     "@babel/types" "^7.8.3"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 "@babel/helper-explode-assignable-expression@^7.8.3":
   version "7.8.3"
@@ -152,7 +155,8 @@
     "@babel/helper-split-export-declaration" "^7.8.3"
     "@babel/template" "^7.8.6"
     "@babel/types" "^7.9.0"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 "@babel/helper-optimise-call-expression@^7.8.3":
   version "7.8.3"
@@ -171,7 +175,8 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-regex/-/helper-regex-7.8.3.tgz#139772607d51b93f23effe72105b319d2a4c6965"
   integrity sha512-BWt0QtYv/cg/NecOAZMdcn/waj/5P26DR4mVLXfFtDokSR6fyuG0Pj+e2FqtSME+MqED1khnSMulkmGl8qWiUQ==
   dependencies:
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 "@babel/helper-remap-async-to-generator@^7.8.3":
   version "7.8.3"
@@ -437,7 +442,8 @@
   integrity sha512-pGnYfm7RNRgYRi7bids5bHluENHqJhrV4bCZRwc5GamaWIIs07N4rZECcmJL6ZClwjDz1GbdMZFtPs27hTB06w==
   dependencies:
     "@babel/helper-plugin-utils" "^7.8.3"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 "@babel/plugin-transform-classes@^7.0.0":
   version "7.9.5"
@@ -655,7 +661,8 @@
   integrity sha512-Tv8Zyi2J2VRR8g7pC5gTeIN8Ihultbmk0ocyNz8H2nEZbmhp1N6q0A1UGsQbDvGP/sNinQKUHf3SqXwqjtFv4Q==
   dependencies:
     find-cache-dir "^2.0.0"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
     make-dir "^2.1.0"
     pirates "^4.0.0"
     source-map-support "^0.5.16"
@@ -697,7 +704,8 @@
     "@babel/types" "^7.9.5"
     debug "^4.1.0"
     globals "^11.1.0"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 "@babel/types@^7.0.0", "@babel/types@^7.3.0", "@babel/types@^7.7.0", "@babel/types@^7.8.3", "@babel/types@^7.8.6", "@babel/types@^7.9.0", "@babel/types@^7.9.5":
   version "7.9.5"
@@ -705,7 +713,8 @@
   integrity sha512-XjnvNqenk818r5zMaba+sLQjnbda31UfUURv3ei0qPQw4u+j2jMyJ5b11y8ZHYTRSI3NnInQkkkRT4fLqqPdHg==
   dependencies:
     "@babel/helper-validator-identifier" "^7.9.5"
-    lodash "^4.17.13"
+    lodash@^4.17.19:
+  version "4.17.19"
     to-fast-properties "^2.0.0"
 
 "@bcoe/v8-coverage@^0.2.3":
@@ -988,7 +997,8 @@
     fs-extra "^8.1.0"
     glob "^7.1.3"
     jetifier "^1.6.2"
-    lodash "^4.17.15"
+   lodash@^4.17.19:
+  version "4.17.19"
     logkitty "^0.6.0"
     slash "^3.0.0"
     xmldoc "^1.1.2"
@@ -1002,7 +1012,8 @@
     chalk "^3.0.0"
     glob "^7.1.3"
     js-yaml "^3.13.1"
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
     plist "^3.0.1"
     xcode "^2.0.0"
 
@@ -1012,7 +1023,8 @@
   integrity sha512-llNWJEWXhGMsaHLWoieraPeWuva3kRsIEPi8oRVTybyz82JjR71mN0OFs41o1OnAR6+TR9d5cJPN+mIOESugEA==
   dependencies:
     chalk "^3.0.0"
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
     mime "^2.4.1"
     node-fetch "^2.6.0"
 
@@ -1046,7 +1058,8 @@
     graceful-fs "^4.1.3"
     inquirer "^3.0.6"
     leven "^3.1.0"
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
     metro "^0.58.0"
     metro-config "^0.58.0"
     metro-core "^0.58.0"
@@ -1289,7 +1302,8 @@
     eslint-visitor-keys "^1.1.0"
     glob "^7.1.6"
     is-glob "^4.0.1"
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
     semver "^6.3.0"
     tsutils "^3.17.1"
 
@@ -1572,7 +1586,8 @@ async@^2.4.0:
   resolved "https://registry.yarnpkg.com/async/-/async-2.6.3.tgz#d72625e2344a3656e3a3ad4fa749fa83299d82ff"
   integrity sha512-zflvls11DCy+dQWzTW2dzuilv8Z5X/pjfmZOWba6TNIVDm+2UDaJmXSOXlasHKfNBs8oo3M0aT50fDEWfKZjXg==
   dependencies:
-    lodash "^4.17.14"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -2510,7 +2525,8 @@ eslint-plugin-flowtype@2.50.3:
   resolved "https://registry.yarnpkg.com/eslint-plugin-flowtype/-/eslint-plugin-flowtype-2.50.3.tgz#61379d6dce1d010370acd6681740fd913d68175f"
   integrity sha512-X+AoKVOr7Re0ko/yEXyM5SSZ0tazc6ffdIOocp2fFUlWoDt7DV0Bz99mngOkAFLOAWjqRA5jPwqUCbrx13XoxQ==
   dependencies:
-    lodash "^4.17.10"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 eslint-plugin-jest@22.4.1:
   version "22.4.1"
@@ -2622,7 +2638,8 @@ eslint@^6.8.0:
     js-yaml "^3.13.1"
     json-stable-stringify-without-jsonify "^1.0.1"
     levn "^0.3.0"
-    lodash "^4.17.14"
+    lodash@^4.17.19:
+  version "4.17.19"
     minimatch "^3.0.4"
     mkdirp "^0.5.1"
     natural-compare "^1.4.0"
@@ -3377,7 +3394,8 @@ inquirer@^3.0.6:
     cli-width "^2.0.0"
     external-editor "^2.0.4"
     figures "^2.0.0"
-    lodash "^4.3.0"
+    lodash@^4.17.19:
+  version "4.17.19"
     mute-stream "0.0.7"
     run-async "^2.2.0"
     rx-lite "^4.0.8"
@@ -3397,7 +3415,8 @@ inquirer@^7.0.0:
     cli-width "^2.0.0"
     external-editor "^3.0.3"
     figures "^3.0.0"
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
     mute-stream "0.0.8"
     run-async "^2.4.0"
     rxjs "^6.5.3"
@@ -5740,7 +5759,8 @@ request-promise-core@1.1.3:
   resolved "https://registry.yarnpkg.com/request-promise-core/-/request-promise-core-1.1.3.tgz#e9a3c081b51380dfea677336061fea879a829ee9"
   integrity sha512-QIs2+ArIGQVp5ZYbWD5ZLCY29D5CfWizP8eWnm8FoGD1TX61veauETVQbrV60662V0oFBkrDOuaBI8XgtuyYAQ==
   dependencies:
-    lodash "^4.17.15"
+    lodash@^4.17.19:
+  version "4.17.19"
 
 request-promise-native@^1.0.7:
   version "1.0.8"
@@ -6505,7 +6525,8 @@ table@^5.2.3:
   integrity sha512-wmEc8m4fjnob4gt5riFRtTu/6+4rSe12TpAELNSqHMfF3IqnA+CH37USM6/YR3qRZv7e56kAEAtd6nKZaxe0Ug==
   dependencies:
     ajv "^6.10.2"
-    lodash "^4.17.14"
+    lodash@^4.17.19:
+  version "4.17.19"
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
 
